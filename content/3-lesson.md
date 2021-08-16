@@ -28,14 +28,14 @@ youtudeid: 7EHnQ0VM4KY
 ----------
 
 
-{% include alert.html text="Back to [Home](https://innovationmgt.github.io/jerkyllbuilds/content/0-prep.html)" align="center" color="success" %}
+{% include alert.html text="Back to [Home](https://innovationmgt.github.io/palacerealty/content/0-prep.html)" align="center" color="success" %}
 
 -----------
 
 #### Link Buttons 
 
 
-{% include button.html text="Back to Home" link="https://github.com/innovationmgt/jerkyllbuilds/Home/" color="info" %}
+{% include button.html text="Back to Home" link="https://github.com/innovationmgt/palacerealty/Home/" color="info" %}
 
 ---------
 
