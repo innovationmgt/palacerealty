@@ -5,30 +5,6 @@ A Jekyll template for a simple workshop website, with a [Bootstrap](https://getb
 Works best for about 5 pages of instructions, plus an index page, all written in Markdown. 
 The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the sections.
 
-
-## Why?
-
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this pretty easy.
-
-It is a better Open Educational Resource since anyone can make a copy and adapt!
-
-## How To Use Template
-
-The `bootstrap Jerkyll template` [repository](https://github.com/evanwill/workshop-template-b) is a template project--to get started quickly, make a copy and fill in your own content and customizations. 
-Thank to the [site](https://evanwill.github.io/workshop-template-b/) demonstrates the output on GitHub Pages, and the content pages serve as examples.
-
-Overview:
-
-1. Copy the code to your own repository by clicking the green "Use this template" button.
-2. Work on the GitHub web interface to edit files or clone to your local machine.
-3. Edit the `_config.yml` with your info (check the comments for details).
-4. Edit the content pages in markdown (found in the "content" folder).
-5. Add images to the "images" folder.
-5. Push to GitHub or commit on the web interface.
-6. In your repository's settings, activate GitHub Pages, using main branch.
-
 ### Creating content pages
 
 Content pages are written in markdown and can be enhanced using Liquid includes that are packaged with the template.
