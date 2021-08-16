@@ -9,7 +9,7 @@ header-includes:
 
 # To find your prefect home, we are here to help!
 
-For a quick introduction check out About us's [About](https://innovationmgt.github.io/jerkyllbuilds/content/1-intro.html).
+For a quick introduction check out About us's [About](https://innovationmgt.github.io/palacerealty/content/1-intro.html).
 
 
 {% capture text %}
