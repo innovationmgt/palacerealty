@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-#   Palace Realty!   {% include figure.html img="palace.jpg" alt="logo" width="5%" %}
+#   Palace Realty!   {% include figure.html img="palace.jpg" alt="logo" width="10%" %}
 
 {% include figure.html img="real estate image.jpg" alt="intro image here" caption="Real Estate" width="75%" %}
 
