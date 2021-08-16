@@ -2,7 +2,7 @@
 #
 # bootstrap Jerkyll template, marcus 
 # a Jekyll template for a simple website
-# https://github.com/innovationmgt/jerkyllbuilds.git
+# https://github.com/innovationmgt/palacerealty.git
 #
 #########
 
@@ -29,7 +29,8 @@ github_username: innovationmgt
 # year or date published
 pub_year: 2021
 # location of code, the full url to your github repository
-source-code: https://github.com/innovationmgt/jerkyllbuilds
+source-code: https://github.com/innovationmgt/palacerealty
+
 
 ##########
 # URL VARIABLES [optional!]
@@ -42,7 +43,7 @@ url: https://innovationmgt.github.io
 # use baseurl to add subsection of the domain, e.g. /Jerkyllbuilds
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl: /jerkyllbuilds
+baseurl: /palacerealty
 
 
 ##########
